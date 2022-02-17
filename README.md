@@ -1,6 +1,6 @@
-# Structural--desgin-patterns
+# Structural-desgin-patterns
 
-Structural--desgin-patterns : 
+Structural-desgin-patterns : 
 1- Adapter 
 2- Composite 
 3- Decorator 
